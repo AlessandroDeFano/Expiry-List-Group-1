@@ -1,0 +1,63 @@
+h1 {
+  text-align: center;
+  font-size: 60px;
+  background: linear-gradient(rgb(233, 11, 11), rgb(48, 11, 160));
+  -webkit-background-clip: text; /*specifica che è la parte da colorare è il testo*/
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande", "Lucida Sans", Arial, sans-serif;
+}
+
+h2 {
+  font-size: 35px;
+  background: linear-gradient(rgb(233, 11, 11), rgb(48, 11, 160));
+  -webkit-background-clip: text; /*specifica che è la parte da colorare è il testo*/
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande", "Lucida Sans", Arial, sans-serif;
+}
+
+h3 {
+  font-size: 20px;
+  background: linear-gradient(rgb(233, 11, 11), rgb(48, 11, 160));
+  -webkit-background-clip: text; /*specifica che è la parte da colorare è il testo*/
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande", "Lucida Sans", Arial, sans-serif;
+}
+
+.nomi {
+  color: #fff;
+}
+
+body {
+  font-size: 100%;
+  font-family: sans-serif;
+}
+
+#menu ul {
+  text-align: center;
+  width: 800px; /* Dimensioni della barra del menu */
+  padding: 0;
+  margin: auto;
+  display: block;
+  list-style-type: none; /* Stile della lista */
+}
+
+#menu li {
+  display: inline;
+}
+
+#menu a {
+  color: #fff; /* Colore del testo */
+  text-align: center; /* Testo allineato al centro */
+  text-decoration: none; /* Nessuna decorazione */
+  background: rgb(233, 11, 11); /* Colore dello sfondo */
+  padding: 4px 50px; /* Distanza tra le singole voci */
+  border-right: 1px solid #ffffff;
+}
+
+#menu a:hover {
+  background: rgb(48, 11, 160); /* Colore dello sfondo */
+  border-radius: 10px;
+}
