@@ -58,7 +58,7 @@ We focused on this project by creating and testing a single function at a time, 
 - Mozilla Firefox v. 98.0.2
 - Microsoft Edge v. 100.0.1185.29
 
-## Author
+## Authors
 **Alessandro De Fano** (HTML & CSS files, JS files: "itemfunctions.js", "main.js") - alessandro.defano@edu.itspiemonte.it
 
 **Sebastiano Demichelis** (JS files: "printfunctions.js", "datefunctions.js", "itemfunctions.js", "main.js") - sebastiano.demichelis@edu.itspiemonte.it
